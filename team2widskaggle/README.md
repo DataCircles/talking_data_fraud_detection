@@ -14,4 +14,4 @@ This directory contains the notebooks for Team 2's initial model to predict app 
 * creating_train_val_data - code to create training and validation datasets
 * test_model_run - code to do practice run of model using lightGBM
 * train_interactions - training model with interaction terms between features
-* train_agg_counts - training model with features engineered in train_feature_engineering and test_feature_engineering. **This script has some notes on lessons learned and next steps**
+* train_agg_counts - training model with features engineered in feature_eng folder. **Note: This script has some notes on lessons learned and next steps at the end**
