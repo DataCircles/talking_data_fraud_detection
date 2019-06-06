@@ -1,2 +1,2 @@
 # talking_data_fraud_detection
-Cracking the fraud detection challenge
+Cracking the fraud detection challenge. This repository contains the notebooks and presentations created by teams participating in SeaWiDS Interview Prep first ever HACKNIGHT, a collaboration with [Convoy's](https://convoy.com/) data science team. Data scientists from Convoy mentored teams as they worked through the TalkingData Fraud Detection competition on [Kaggle](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection). 
